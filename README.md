@@ -36,7 +36,7 @@ This guide will walk you through the steps to deploy the E-commerce Micro servic
 
 2. Change directory to the project:
     ```
-    cd ecommerce-micro-services
+    cd ecommerce-micro-services-web
     ```
 3. Build docker image:
     ```
