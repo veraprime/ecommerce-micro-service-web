@@ -29,7 +29,7 @@ This guide will walk you through the steps to deploy the E-commerce project on a
 
 3. Clone the repository containing the E-commerce Microservices project:
     ```
-    git clone https://github.com/mariusforreal/ecommerce-micro-service-web.git
+    git clone https://github.com/veraprime/ecommerce-micro-service-web.git
     ```
 
 4. Copy the front-end files to the Nginx web root directory:
